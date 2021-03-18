@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?validation-md5-digest 6db9f47d8d3b4085520b90ab945f3acc?>
+<?validation-md5-digest 9712ae039cfa4c05840fd0592236d137?>
 <worksheet version="3.0.3" xmlns="http://schemas.mathsoft.com/worksheet30" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ws="http://schemas.mathsoft.com/worksheet30" xmlns:ml="http://schemas.mathsoft.com/math30" xmlns:u="http://schemas.mathsoft.com/units10" xmlns:p="http://schemas.mathsoft.com/provenance10">
 	<pointReleaseData/>
 	<metadata>
@@ -13,9 +13,9 @@
 			<revisedBy>User</revisedBy>
 		</userData>
 		<identityInfo>
-			<revision>1</revision>
+			<revision>2</revision>
 			<documentID>7427B89C-6DFB-4CBE-B85C-DE4FB02BC1B0</documentID>
-			<versionID>8FFAF6EE-17DE-4705-A8F5-99AEBEF91D10</versionID>
+			<versionID>7062862B-625C-4D05-BC6E-F60B4909AA65</versionID>
 			<parentVersionID>00000000-0000-0000-0000-000000000000</parentVersionID>
 			<branchID>00000000-0000-0000-0000-000000000000</branchID>
 		</identityInfo>
@@ -255,10 +255,10 @@
 		<region region-id="501" left="24" top="153" width="36.75" height="12.75" align-x="33" align-y="162" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="357111180" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="261445972" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="357110780" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="261446492" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -282,10 +282,10 @@
 		<region region-id="497" left="24" top="177" width="75.75" height="18" align-x="39.75" align-y="186" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="357111180" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="261445972" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="357111340" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="261446612" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -318,10 +318,10 @@
 		<region region-id="498" left="24" top="201" width="45" height="18" align-x="39" align-y="210" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="357110500" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="261442452" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="357111180" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="261445972" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -353,10 +353,10 @@
 		<region region-id="499" left="24" top="225" width="27.75" height="18" align-x="39" align-y="234" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="357110780" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="261446492" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="357110420" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="261446372" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -726,10 +726,10 @@
 		<region region-id="555" left="24" top="309.75" width="96.75" height="18" align-x="39.75" align-y="324" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="357110420" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="354315172" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="357110500" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="354315852" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -766,10 +766,10 @@
 		<region region-id="580" left="24" top="339" width="126" height="12.75" align-x="63.75" align-y="348" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="357110980" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="354315572" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="357110540" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="354315892" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -799,10 +799,10 @@
 		<region region-id="627" left="174" top="339" width="123.75" height="12.75" align-x="213" align-y="348" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="357111260" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="354315932" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="357110500" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="354315692" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -832,10 +832,10 @@
 		<region region-id="657" left="24" top="363" width="99.75" height="12.75" align-x="54" align-y="372" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="357110420" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="354315252" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="357110260" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="354315852" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -865,10 +865,10 @@
 		<region region-id="663" left="174" top="363" width="106.5" height="12.75" align-x="205.5" align-y="372" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="357110860" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="354316252" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="357110540" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="354315892" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -898,10 +898,10 @@
 		<region region-id="684" left="24" top="386.25" width="107.25" height="27.75" align-x="40.5" align-y="402" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="357110420" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="354315092" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="357110260" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="354315692" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -931,10 +931,10 @@
 		<region region-id="685" left="180" top="386.25" width="102" height="27.75" align-x="195" align-y="402" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="357111180" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="354315932" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="357110500" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="354315852" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -969,10 +969,10 @@
 		<region region-id="707" left="24" top="448.5" width="133.5" height="45.75" align-x="48" align-y="474" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="357110260" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="354315692" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="357110820" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="354316012" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -1022,10 +1022,10 @@
 		<region region-id="756" left="24" top="513" width="60" height="12.75" align-x="46.5" align-y="522" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="357110140" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="354315212" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="357110820" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="354316012" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -1050,10 +1050,10 @@
 		<region region-id="763" left="24" top="538.5" width="68.25" height="23.25" align-x="44.25" align-y="558" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="357110140" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="354315212" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="357111260" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="A3A9917C-4FE2-4F99-9AD5-772DDD231078" version-id="71580E83-010B-4832-8E65-D9DF49696E37" branch-id="00000000-0000-0000-0000-000000000000" revision-num="354316252" is-modified="false" region-id="0" href="D:\Учеба 2 курс, 2 семестр\КГиГ\5 lab\1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -1251,21 +1251,22 @@ GYZxzUMqJUBMWqg/OFKkiCB8MDcYUsiRkqJdyhOCIWMaDyB/XYtHIGNdfC+kHNmquLMbhcLm
 W1KI7/JpIlAxtJROpwo8ErB5niOAuzw1/8qNVM7WowqDXN6sN5TalaOavpSzvKs6R59ZG/Pr
 TvVyxKJpLORmXfAbUoMdikS+DHo8oVyPF2kE/f9MSK09vhKxVPwrtUml3B0pCQql4j0SftkN
 t/1Ep/ZxpKQolCJ6AfrzGFiGnQ2IAAAAAElFTkSuQmCC</item>
-		<item item-id="15" content-encoding="gzip">H4sIAAAAAAAA/+xXTUwTURCebWkp0NIuf2oBLQgqJia40YMJMcTCQSM2KYZ4M9BuoKbt8tMY
-uDUejAf8STSe9cLFkwcTj2gMicYEPHnwgtF44cDBcJT6zZtl2RKj+BdjYJp57+28+WbevPd2
-dhokIg08CK5WYw/aisKkaTYTkwEO5FKJkStmqqAklAT3ANTrNfyviIoVxqPnePIZTeiKfmP2
-GbpKIzSutAP2c5XhCROlA0Qe7RKciXagRsDVFBRjNSFD2Q4S1aq1VMWHBvsnzhbMnKbsYYL8
-bkEIHFaqAXMiaY5mrLxPTZxgdNpKiaxCyU45MfqnxsbPWNMS0nlwJQRJJ8gB8BIc3ELfD/01
-jJd5YeKUur1EETX2RDZC1SXUSJ2Eqtuh1hv3X0CsNxhYJ/XWQ7NRDYv19u4LNal1BRFv3MqN
-WByhTER4dRBvSsJ8BDivFaBvY3wObGJcKrE2VBNZM57NmPmCwmDG47hSLbBLi/ryw8fR97SF
-TpOX1ktV5HfJNPdCI5vW1kvsUai0S/8VfQGvu3iXdhYlycKvQDHqpzz6SZrZmgq+S03kc955
-zgXX6KTWrr/T7xYpNLTgi7p1u48uPOmqfashadK8nUji8M5+TdVO/ZRvpjpkV3c828Xd0H6s
-s136Ff9/kn7HP28D53E+E/448keTc/5uLtgZ5EPlNFdJ9KlD7kN12c1wxvwQAR8DN4qs1R6m
-KaNuT9hGe21MxoXncu0p+HOp/IbeESevuRlA+RkDjyEXZPGLUR/aUfSGoz//cZWmcU3vfVil
-kevhq25ba3/Rdg83F2dfHk8t6XM36UHHou/NRjUU2LJX39o/0vgdUwUnuAGMj20Z/ytSq9wj
-hSifEk6aRXWD5mRmOHu5LzM1nh2euWClTdFPKNBeAch/BdpXXtRH7aK+WYr6KLVIUd/cKkV9
-Cxf1+8VCi3LZmyDtgAiiymRsA9om0Fi7QNsYelA02xxohxvaaSMOCaKTEYdFodNBHHFNdrkm
-+fkrAAAA//8DACAdj3sNDQAA</item>
+		<item item-id="15" content-encoding="gzip">H4sIAAAAAAAA/+xXTUwTURCebWkp0ArlpwpYrFjxB/FnowcJMdXCQSM2KYZ4I7TdYE2hUKqB
+W+PBeMCfROJZL1w86ckjGmNiYgKePHjBaLx44GC4mEj95s2ybIlR/IsxMJt5P/Pmm3lv9u3b
+eV4i0sB94ErVdqAsy+cMo5mYdLBnOBlLXDKSeSWhOLgLoIhTd38mKpTpD56i59IDqApufeoJ
+qnLdF1HaHrNfoTuqiVIeIod2Ac5E21Ml4EqvThiOVAHhE7NVW3TlxUcY4VlVRPv7esZO541h
+TVn2gt12ATSpRql6jLG4MZTOjrjUwFFGp7JJkZUp2XFrte7xi6OnshOyuLPgcgji1nJ7wfNw
+cBN1D/SX0F7giYlTOuyUEDrI4VeNWsvTyXw+l05czhui2km8FDvVdraW9OtWolYvUatrkKjV
+m1EL6HefQVy/VaIVgOY21SwESuw0qoV5EbBodjiR5RDJQA0vD+JVCU+oC6/+I+Z4C+0zYJ5v
+scjaUI1ljGgmbYzkFUYjZVoWpEpg5+f8C/cfNr2lNXSCnLRcrCC3TaZZaJnOirXlInsUKm7S
+f0VfwMs23qSNRXHK4slTiHpoBHWOJtceBd+lALmsb57Pgqt0TGv1v/HfKZCv/7mrya4bmc49
+Gmh8reHUpVnzIInCO/s1VDn+U76ZanG62tezXtx17cc666Vf8f8n6Xf8y++PiN8J/135r8tn
+/uZZsDHIhdRrppzoQ1j2Q2XJzrDa3KkBd4AbRBY0mylKq91TbaKdJiZtw3O+9xj8qVi6Q2+L
+k5dc9CKTDYEv4izI4AlRN8oh1LqlP/t+kSawTaffLVLiWvUVu62lv2i7i4vzUy+OJOf9Mzfo
+XnjO9WolG/KsidW34kcaf2MqYwUjJST8bEv4X5GaZZMkopyEOzRJhPuMXHowM9CdHh/NDE6e
+y6YM0Y8pULMAzM2yvfR+EDTvBy1yPwjukIy3BZohuR+07JT7QYh3TavYCinnkRhpu0QQVLbD
+ppHdYoR3aZsYCe8RI21sZK9g2iwj+2xG9q9i203sAcG2M7ZDVNst7EHb4CHbIPe/AgAA//8D
+AL3G2192DQAA</item>
 		<item item-id="16">iVBORw0KGgoAAAANSUhEUgAAAHUAAAFnCAYAAACYbQaYAAAAAXNSR0IArs4c6QAAAARnQU1B
 AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAA8wSURBVHhe7Z3RdaQ4EEUdlT8cjb+c
 in8nD/9PGE5gktgMersk1C2ERBWoii7Eu+e8s+tGxjK3BbhVI95uYDgOlfr29oYI0svhUv/7
@@ -1341,21 +1342,22 @@ fWBfn1N93XyqHRr9dSW1XXiWl7NsC6Qaw0mNaY9USJVxKqn0/SlSwRoH6Ug0+nsSqfPElc/W
 26RAqjFaUmMb3Ci1gFRnXEdqbb1fF0vD1qgXnbW/njOc1HbhWRyZz23eVjzLgVTzHC+1D0gV
 BFKNgVQeSBUEUo2BVB5IFQRSjaEOI+vR4FxvYyDgdvsfrmgsR+HYpJoAAAAASUVORK5C
 YII=</item>
-		<item item-id="17" content-encoding="gzip">H4sIAAAAAAAA/+xXTUwTURCebWkp0NJu+dMCWhBUEi9s9GBCTEPhYCI2KYbEk0C7gZrCFugB
-NCaNJw+oJCae9eLFkwcTj2qMRmMCnjx40YsXj8ajXb95s6xbYhT/YgxMM+9n3nwzb/a9nZ2G
-iUgDj4Mb1diHtq68aJqdxGSAQ3O5zPR5M1dWEsqChwBK+Y3gC6JKnXH3MWYBox1dJWisPkJX
-b0RKSjvkzBsMX5QoHyLyaWfhTLRDTQJupLAYa4oYynaYqFntpSE9MT66cLJszmnKHhYo6BVE
-wFGlGjIXsuZMwZoPqIWjjM5bOZHVKdlxN8bg0mxp2FqWkE6B6yHIukGOgSehd41X/ESf4MzC
-PCVOaRCymBr7Ypuh6hJqLC6h6k6oLcbNJxDrrQb2SakWaLapYaXFefpC7WpfYcSbtuamLY5Q
-FmK8B4i/SqJ8BDivC0Bcx/gS2IQl22ZtqGaKZrpYMOfLCoMVv+tKtcBurOtvb99LvKMtdAK6
-VbuBgh6Z5t0otuNz5lWbPQrZu/Rf0Wdw1cO7tLMoSxZ+ZUrSKM2jX6SVrangu9ROAfed51xw
-mY5pvfob/UaFIhNPAwmv7lrrs/sDza81zkIPnUSShnf2a6p26ad8M8WRXb3xbBd3Rfuxznbp
-V/z/Sfod//wYOI/zmfDHkT+anPN3c8HOoAAqpw+opt73yX1orLkZ7pgnMfAkuE1k3c4wTwV1
-e6IO2u9gCh48l2sPwB/t2hu6Jk5ecjOG8jMJnkUuKOKXpBG0M+gNpTR88YjSXsY17UCf9Nix
-61Gb/UXbQzw4s/p8MLeh37lKt/rWA682q6HQlmf1redHGr9jquAEt7LVql3D/4rULjukEOVT
-wkmzKD5uLhamiudGCkul4tTKaStvin5GgfYIQP4r0N7aoj7hFPWdUtQnqEuK+s5uKeq7uKjf
-Jxa6lMtUhrT9Ikgok8lNaI9Ak70C7WHoAdHscaF9Xmi/gzgoiH5GHBKFfhdx2LM44Fnk+RcA
-AAD//wMA4ZJVug0NAAA=</item>
+		<item item-id="17" content-encoding="gzip">H4sIAAAAAAAA/+xXTUwTURCe3bJtgVZoKUXA4ooVf0ANGz1IiKkUDiZik9aQeOKn3cCawkJZ
+EtCYNJ484E9i4lkvXjzpyaMaY2JiAp48eNGLF4/Gi4ldZ94sy5YYxb8YA9PM+5k338x707fv
+zQsBgIScQ64TbRnLGquk6+1ApCEHp/OZiQt63hISyCL3Iyjl0/yfAco12v2n2FO0OFZlv7b8
+BKuAFk4J7aDTr9XkBoBCEECWzqMz1g7WM7gupAEOp+oREWaz9Ts04SUMOEKzqk2P5IbmTlv6
+tCQsh5D9XgFqQqNQDepzWX3SMGcUMXCM0AUzz7IaITvhrtY/PzU7YC7y4s4gB1CQdZc7jDyG
+etdpxAfwCZ2Z2E+xU+j1cQhlkCOiEXU9nbKskjGxYOms2ge0FC9F+zqr+k1rUYtx1JqaOWox
+J2px7fYzFMdaOFpx1NwpmuV4lZ1WsbAQBixtTk+YFCIeaKRFoHhdQhPqx7/+IiJuYPsyMs3X
+tkkbVTNFPV009BlLYHDE5+wZp0Ts6krk7d0Hbe9gA51E3YpdC36PTHLRPB3Z6Vds8shkb9N/
+RV+QKx7epq1FWTDxZ4EKQzCDdQmWNh4F36U4KO43T2fBFTgudUbeRG6VITzyXGnz6qaUhYej
+ra8lOoUeOwdJGr2TX12U8z/lmyiKp6t3PZvFXZV+rLNZ+hX/f5J+xz9ff3wz0O1Kty6d+dtn
+wdYgBVOvD5iOvU/yfqir2hlumzqNyGPIzSxLOM0CGGL3NDhon4MxPHjK9x4hf7Srd+hNdvKS
+imHMZFXkKTwLivhTYRDLSaw1oTRwqUdoL+I2bcFa9dixA5jc/UXb/dQ4t/yiN78auXcN7iRX
+lFdr2VBwQ6y+FT+Q6BsTGStyjKxW7Cr+VyRm2caJKCXhssSJcE4vGePF0UFjfrY4vnTWLOis
+nxGgdgY4m2VX9fsg4bwPOvh9kNjNGW8Haqr8PujYw+8DlXZNJ9tShfNUBqS9LEgI20nHyD42
+Qru0i40k97ORLjJygDFdrpGDHiOH1rHdDraHsd2EPcyq3S72iGfwqGeQ+l8BAAD//wMAiF7Z
+YHYNAAA=</item>
 		<item item-id="18">iVBORw0KGgoAAAANSUhEUgAAAKcAAAFnCAYAAADDiVnsAAAAAXNSR0IArs4c6QAAAARnQU1B
 AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAABVqSURBVHhe7Z1NeqQ6EkW9qhx4NR55
 K57WPjyvZXgDtYm3g3yEfiAUSAoBSgege77vdncmArvlUwHYoeTtCcBJ+TU5397ekMFylF+V
@@ -1693,17 +1695,17 @@ GXWUAW+lyehwHG7qwjsCFA6Rhv+1UyUolmUx33YuppfmnM3oaOKmJx4rJq5uzcQWxCO0GU2G
 pc/oQY9GuwroyGWICRpLQxasoElcdFCzoqGHwuhQ+3ayTbxnTRNQnThc+4XyIS5HBX3nVhqy
 UcPMbNMscTCCPj+7jp7RT+KrP2XBOqI7SSTPNxpYHvPjbD+vMPovMIy+Be9/AKTFThqDdqTW
 AAAAAElFTkSuQmCC</item>
-		<item item-id="34" content-encoding="gzip">H4sIAAAAAAAA/4xTu3LTUBC9V5L1ih0bYwcc2VYIj6Fk7tCQKmQCQ8FjxjRQZRRZicXE2CgK
-k9JDScEvQME30PMD/JI5uyubQMX1rHb36OzjrtZ1pZSGvIaEbNt4+tmHUXaaz97XFJ2HkGA8
-SwVzGHtEtGn66vhdlpaMqBHHW3i655P5wexS4OcQD8BoTXwB2YHcRK3PqP7E+eNzRKUtZdnc
-XXtd/HFZFvnxRZlpZuxBmurqcfZ2//JrnMApiyyLGDCQxpxN1/R+KrWoeeYr9L7ri/YC0X4o
-OtgwFoqMMR/beqsmStUZ+F4BZ5SRqYtg01A/Bw3qi81PDS7VMu1feO9fk1QtXE6f4GLmC1pZ
-tNR1ydgmXObWkYxeV5robInu3mDmxy1i6gcYGvs/1r7qSWB3W1rpAYqklR4n7ovTYWcgZHco
-2Qex6OGO9BnTDd/QlW9JgxVAV96V0OFtqUNjvyOp5QvclYjB6kr3eDWaY3N0WiTzydHJrJgm
-pcfcLm0Yw4dJmciX21arLcCxqz29D4nZJi9MLvPzp5xHtrJP26Mrrpwlfkr3/x9dJffKIkkz
-cyjLGFXEWLeUjmB9izBvHaG7ZawtHdmIjbWtI2dJiEOkJYwaOIt9vHKJQwk85sDwORE4AeWh
-8BAcDt8Ah8Pr4HB4g2vB2GQOjCZxiCz9Nl9eTLMiT5MzmYjPfT+DjFWOn139V8JqnP+c+lXn
-NwAAAP//AwBPX4pyFwQAAA==</item>
+		<item item-id="34" content-encoding="gzip">H4sIAAAAAAAA/4xTzW7TQBDetR3/NWnSkBRSJ3EpBXFEKy70VKqCOPAjhQucKtdxG6OGBNdF
+PUYcOfAKcOAZuPMCvFL4ZsYNhRNrjXfm8zc/OzuuK6U05DUkZN3G288+jLLTfPa+pmg9hATj
+WSqYw9gjok3TV8fvsrRkRI3Y38LbPZ/MD2aXAj+HeABGK+ILyDbkFnJ9RvYnzh+bPWwpylKW
+zUp7lfxxWRb58UWZaWbuQZrq+nL2dv6yaxzAKYssixgwkMacVdf0fiq1qHnmK/Z915fdC2T3
+Q9mDNWMhyRj9sa23aqJUnYHvFXBGEZm6CNYN1XPQoLpY/dTgVC3T/oXv/oaEauFw+gQHM19Q
+yqKlbkjENuHSt45E9LpSRGdT9u5NZn7cJKZ+gKax/WNlq544dreklB6gSErpceC+GB02BkJ2
+hxJ9EMs+3JY6YzrhGzrybSmwAujIO+I6vCN5qO27Elpu4K54DK6OdI9Hozk2R6dFMp8cncyK
+aVJ6zO3ShDF8mJSJ3NxWdYPkxVNJF3kfErNOVphc5udPOY5MZZ+mR1dcWUs8Svf/H70K7pVF
+kmbmUIYyqoixbikdQfsWod86QnXLWFs6suEba1tHzpIQh0hLKDVwFvv45BKHAnjMgeJzIHAC
+ikPuITjsvgYOu9fBYfcG54KyzhwoTeIQWeptvryYZkWeJmfSEZ/rfgYZqxyPXf0rYdXOf1b9
+uvEbAAD//wMANZsehxcEAAA=</item>
 		<item item-id="35">iVBORw0KGgoAAAANSUhEUgAAAWoAAAEtCAYAAAAhhSo3AAAAAXNSR0IArs4c6QAAAARnQU1B
 AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAABthSURBVHhe7Z2LceO4FkQdlwJSPAph
 o1AyCkYr2MIYw+EHn/sjdE4V69kekrebDfRoZb/x1xMAAEJDUQMABIeiBgAIDkUNABAcihoA
@@ -1838,14 +1840,14 @@ IXl+FybEgqIGKLmnX8HF2x4QC4oaIJN+Ddf3r2MqfnciQAAoaoBv3t9MTEWdf28iv9wWgkBR
 AwAEh6IGAAgORQ0AEByKGgAgNM/n/y7PazKwKs0yAAAAAElFTkSuQmCC</item>
 		<item item-id="36" content-encoding="gzip">H4sIAAAAAAAA/4xTz1PTUBDel6T5RUNpkSpNNYgXj07Gi5yQYRwPojP1AicmpJGGobaGoBw7
 /iNy8G/w7l9Wv92NFT35Opvd/fJ9u/teXttEZGDvYaHENp5+8WlUnJezjy3i9RwWjGe5Yo5g
-L5g2zd+dXRR5LQiNRG/h6V5N5gezG4XfwDwAoxXxCHaLrjvo1YUdOX9yec8emEWWLdP1Vs1f
-1nVVnl3XhRHmHqxDd5ezt/tX3pICTl0VRSxACovmErrp9k+iRctLv8Hvu756L1Dvh+qDtdRC
-kzHOx7FP6JK+ELUF+t5AE4YoEvoiWE95poOIZ5PwayTtNlTjE9nWiSi6qvB62qi7qb53T5if
-N3EExjwj2pL8xyqnvgp797VVH9ADbdWXVtuadCUZKNmNtfpgqD5+qNsa8h6OdQ+PdMQGkp1S
-ovJ4R3slgB5r+UTK76pmwNs6FsUTuQSdcXp6XmXzyemHWTXNak/YW3yXBD7M6ky/0aD5VqyS
-+8ef7Cm3lpizMLspr15JHb1/Q75ZpuHqWuJHZvj/6O/iXl1leZEe6vWLG2JiNsjEiG5jnLqJ
-Md0yMZaJbWgTY5vYWTLiMGmJoAXOYh+vXOZwAU84CHwpBE7AdVgegiPyNXBE3gZH5JH0QrAu
-HAQd5jBZ5+28vZ4WVZlnl3oivsz9GjamEj+7+VeEzXH+s9p3k18AAAD//wMAhBFi8QEE
+L5g2zd+dXRR5LQiNRG/h6V5N5gezG4XfwDwAoxXxCHaLrjvo1YUdOX9yeQ9vgFlk2TJdb9X8
+ZV1X5dl1XRhh7sE6dHc5e7t/5S0p4NRVUcQCpLBoLqGbbv8kWrS89Bv8vuur9wL1fqg+WEst
+NBnjfBz7hC7pC1FboO8NNGGIIqEvgvWUZzqIeDYJv0bSbkM1PpFtnYiiqwqvp426m+p794T5
+eRNHYMwzoi3Jf6xy6quwd19b9QE90FZ9abWtSVeSgZLdWKsPhurjh7qtIe/hWPfwSEdsINkp
+JSqPd7RXAuixlk+k/K5qBrytY1E8kUvQGaen51U2n5x+mFXTrPaEvcV3SeDDrM70Gw2ab8Uq
+uX/8yZ5ya4k5C7Ob8uqV1NH7N+SbZRquriV+ZIb/j/4u7tVVlhfpoV6/uCEmZoNMjOg2xqmb
+GNMtE2OZ2IY2MbaJnSUjDpOWCFrgLPbxymUOF/CEg8CXQuAEXIflITgiXwNH5G1wRB5JLwTr
+wkHQYQ6Tdd7O2+tpUZV5dqkn4svcr2FjKvGzm39F2BznP6t9N/kFAAD//wMAjswdqgEE
 AAA=</item>
 		<item item-id="37">iVBORw0KGgoAAAANSUhEUgAAAXEAAAEtCAYAAAD+y1AoAAAAAXNSR0IArs4c6QAAAARnQU1B
 AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAABv0SURBVHhe7Z2LceM4EEQ3LgWkeBTC
