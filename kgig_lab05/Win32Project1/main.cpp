@@ -144,7 +144,7 @@ afx_msg void CMainWin::OnKeyDown(UINT nChar, UINT nRepCnt, UINT nFlags)
 afx_msg void CMainWin::OnSize(UINT nType, int cx, int cy)
 {
 	CWnd::OnSize(nType, cx, cy);
-	WinRect.SetRect(cx*0.5, -cy * 0.5, cx - cx * 0.1, cy *0.1);
+	WinRect.SetRect(cx * 0.5, -cy * 0.3, cx * 0.9, cy * 0.1);
 }
 
 CMyApp theApp;

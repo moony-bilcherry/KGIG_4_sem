@@ -110,6 +110,7 @@ void CPyramid::Draw1(CDC &dc, CMatrix&PView, CRect &RW)			// с удалением ребер
 		else
 			if (PView(1) < 270)		// если азимут 180 < х < 270
 			{
+				dc.Polygon(ACC1A1, 4);
 				dc.Polygon(ABB1A1, 4);
 				dc.Polygon(BCB1C1, 4);
 			}
